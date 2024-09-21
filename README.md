@@ -3,7 +3,7 @@
 [Click Here to view the interactive version of this dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjI4ODliZjQtYTY0ZC00NzY0LWE0OWEtODQzYzM5OTE4MGVlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
-![HR Dashboard](Dashboard.jpg)
+![HR Dashboard](https://github.com/k-for-karthik/HR-Retention-and-Engagement-Dashboard/blob/b59f026df41b1e1cea6ea307eef333dca736e516/Dashboard.jpg)
 
 
 
